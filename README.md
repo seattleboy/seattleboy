@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on eBay
+- 🌱 I’m currently learning and sharing in my [blog](https://juejin.cn/user/413072099651464/posts)
+
 ![Haitao's github stats](https://github-readme-stats-omega-six.vercel.app/api?username=seattleboy&show_icons=true&theme=radical)
